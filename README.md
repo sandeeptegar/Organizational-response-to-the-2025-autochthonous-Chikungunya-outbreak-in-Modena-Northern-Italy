@@ -66,7 +66,7 @@ The codebase is intended to accompany the scientific manuscript and provide a **
 Population density (per sq. km) around the outbreak site in **Carpi, Italy**.
 
 **Source:**  
-[Eurostat – Population density data](https://ec.europa.eu/eurostat/statistics-explained/index.php?oldid=596753)
+[Eurostat – Population density data](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_and_housing_census_2021_-_population_grids)
 
 ---
 
