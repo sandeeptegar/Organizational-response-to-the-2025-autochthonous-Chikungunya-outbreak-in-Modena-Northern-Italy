@@ -6,7 +6,7 @@ The modelling framework simulates **vector–host population dynamics**, **virus
 
 > **“Organizational response to the 2025 autochthonous Chikungunya outbreak in Modena, Northern Italy: structure, coordination, and public health interventions of the Regional Crisis Unit.”**
 
-This work was conducted by the modelling team: **Sandeep Teger, Christina A. Cobbold, Dominic P. Brass, Bethan V. Purse, and Steven M. White**, at the **UK Centre for Ecology & Hydrology (Wallingford, United Kingdom)** and the **School of Mathematics and Statistics, University of Glasgow (United Kingdom)**.
+This work was conducted by the modelling team: **Sandeep Tegar, Christina A. Cobbold, Dominic P. Brass, Bethan V. Purse, and Steven M. White**, at the **UK Centre for Ecology & Hydrology (Wallingford, United Kingdom)** and the **School of Mathematics and Statistics, University of Glasgow (United Kingdom)**.
 
 ---
 
