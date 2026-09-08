@@ -1,0 +1,2 @@
+# Organizational-response-to-the-2025-autochthonous-Chikungunya-outbreak-in-Modena-Northern-Italy
+This repository contains simulation code and analysis scripts used to model the 2025 autochthonous chikungunya outbreak in Carpi, Modena, Northern Italy. The modelling framework simulates vector–host population dynamics, virus transmission, and the effectiveness of alternative public‑health control strategies.
