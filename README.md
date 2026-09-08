@@ -27,10 +27,11 @@ The codebase is intended to accompany the scientific manuscript and provide a **
 ## Chikungunya Outbreak Simulation
 
 ### Code Structure
-- **Main code file:** `chikv_bergerac.ipynb`
+- **Main code file:** `distributed_job.ipynb`
 - **Supporting function files:**  
-  - `ChikungunyaFunSR.jl`  
-  - `ErrorFun_bergerac.jl`
+  - `Chik_Albopictus_Fun.jl`  
+  - `multiseed.jl`
+  - `seeds_script.jl`
 
 ---
 
@@ -45,21 +46,24 @@ The codebase is intended to accompany the scientific manuscript and provide a **
 
 ### Climate Data
 - **Climate file:** `latitude_longitude.csv`  
-- **Bergerac coordinates:**  
-  - Latitude: **44.87**  
-  - Longitude: **0.49**
+- **Carpi block-1 coordinates:**  
+  - Latitude: **44.78**  
+  - Longitude: **10.88**
+- **Carpi block-2 coordinates:**  
+  - Latitude: **44.79**  
+  - Longitude: **10.89**
 
 **Required climate variables:**
 - Temperature (`t2m`)
 - Total precipitation (`tp`)
 - Evaporation from open water surfaces excluding oceans (`evaow`)
 
-**Source:** ERA5-Land hourly data (1950–present)
+**Source:** [ERA5-Land hourly data (1950–present)](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview)
 
 ---
 
 ## Population Data
-Population density (per sq. km) around the outbreak site in **Bergerac, France**.
+Population density (per sq. km) around the outbreak site in **Carpi, Italy**.
 
 **Source:**  
 [Eurostat – Population density data](https://ec.europa.eu/eurostat/statistics-explained/index.php?oldid=596753)
